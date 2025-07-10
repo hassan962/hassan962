@@ -19,7 +19,7 @@
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://github.com/your-github/your-github/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <!-- Profile Views Counter -->
@@ -36,7 +36,33 @@
 <h2 align="center">✨ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,js,html,css,bootstrap,tailwind,postgres,mysql,git,github,vscode,aws,linux" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python" alt="Languages" />
+  
+  <!-- Web Development -->
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,js,html,css" alt="Web Dev" />
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react" alt="Frontend" />
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
+  
+  <!-- ML/DS Libraries -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ML" />
+  <img src="https://custom-icon-badges.demolab.com/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://custom-icon-badges.demolab.com/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://custom-icon-badges.demolab.com/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+  
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws" alt="DevOps" />
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux" alt="Tools" />
+  
+  <!-- Visualization -->
+  <img src="https://custom-icon-badges.demolab.com/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" />
+  <img src="https://custom-icon-badges.demolab.com/badge/seaborn-5A8F29?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" />
 </div>
 
 <!-- Animated Stats -->
@@ -93,24 +119,8 @@
 <h2 align="center">🌱 Currently Learning</h2>
 
 <div align="center">
-  <div style="display: inline-block; margin: 10px; animation: float 3s ease-in-out infinite;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  </div>
-  <div style="display: inline-block; margin: 10px; animation: float 3s ease-in-out infinite 0.5s;">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  </div>
-  <div style="display: inline-block; margin: 10px; animation: float 3s ease-in-out infinite 1s;">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40C057&center=true&width=435&lines=Data-Science+React+Generative-AI" alt="Currently Learning">
 </div>
-
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-</style>
 
 <!-- Contact Section -->
 <h2 align="center">📬 Let's Connect</h2>
@@ -119,15 +129,15 @@
   <a href="mailto:hassanshaikh962@gmail.com" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40" height="40" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/your-link/" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/hassan-shaikh-ml/" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/your-twitter" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40" alt="Twitter">
   </a>
-  <a href="https://your-portfolio-link.com" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/48/000000/external-portfolio-business-and-finance-itim2101-lineal-color-itim2101.png" width="40" height="40" alt="Portfolio">
-  </a>
+ <a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="Portfolio"/>
+</a>
 </div>
 
 <!-- Quote -->
